@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\CoffeeMasters\\demoServer\\wwwroot\\111.jpg",
+      "PackagePath": "staticwebassets\\111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\CoffeeMasters\\demoServer\\wwwroot\\222.jpg",
+      "PackagePath": "staticwebassets\\222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\CoffeeMasters\\demoServer\\wwwroot\\333.jpg",
+      "PackagePath": "staticwebassets\\333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\CoffeeMasters\\demoServer\\wwwroot\\444.jpg",
+      "PackagePath": "staticwebassets\\444.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\CoffeeMasters\\demoServer\\wwwroot\\555.jpg",
+      "PackagePath": "staticwebassets\\555.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.demoServer.props",
+      "PackagePath": "build\\demoServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.demoServer.props",
+      "PackagePath": "buildMultiTargeting\\demoServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.demoServer.props",
+      "PackagePath": "buildTransitive\\demoServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.demoServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
